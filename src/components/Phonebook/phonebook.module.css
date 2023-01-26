@@ -1,0 +1,28 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.input {
+    max-width: 300px;
+}
+
+.btn {
+    width: 100px;
+    margin-top: 15px;
+
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: gray;
+}

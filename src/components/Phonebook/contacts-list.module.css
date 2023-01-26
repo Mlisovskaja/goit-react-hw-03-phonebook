@@ -1,0 +1,13 @@
+.list {
+    list-style: none;
+}
+
+.btn {
+    width: 100px;
+    margin-left: 15px;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: gray;
+}
